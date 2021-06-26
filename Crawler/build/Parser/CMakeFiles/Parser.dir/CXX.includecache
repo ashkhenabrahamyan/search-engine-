@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ashkhen/search/Crawler/Parser/Parser.cpp
+Parser.h
+/home/ashkhen/search/Crawler/Parser/Parser.h
+iostream
+-
+
+/home/ashkhen/search/Crawler/Parser/Parser.h
+gumbo.h
+/home/ashkhen/search/Crawler/Parser/gumbo.h
+vector
+-
+string
+-
+

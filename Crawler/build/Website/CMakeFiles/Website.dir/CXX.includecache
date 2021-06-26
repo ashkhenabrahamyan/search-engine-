@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ashkhen/search/Crawler/Website/Website.cpp
+Website.h
+/home/ashkhen/search/Crawler/Website/Website.h
+
+/home/ashkhen/search/Crawler/Website/Website.h
+string
+-
+

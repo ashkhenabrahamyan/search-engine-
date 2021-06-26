@@ -1,0 +1,15 @@
+/home/ashkhen/search/Crawler/build/CMakeFiles/rebuild_cache.dir
+/home/ashkhen/search/Crawler/build/CMakeFiles/edit_cache.dir
+/home/ashkhen/search/Crawler/build/CMakeFiles/Crawler.dir
+/home/ashkhen/search/Crawler/build/Loader/CMakeFiles/rebuild_cache.dir
+/home/ashkhen/search/Crawler/build/Loader/CMakeFiles/edit_cache.dir
+/home/ashkhen/search/Crawler/build/Loader/CMakeFiles/Loader.dir
+/home/ashkhen/search/Crawler/build/Parser/CMakeFiles/rebuild_cache.dir
+/home/ashkhen/search/Crawler/build/Parser/CMakeFiles/edit_cache.dir
+/home/ashkhen/search/Crawler/build/Parser/CMakeFiles/Parser.dir
+/home/ashkhen/search/Crawler/build/LinksRep/CMakeFiles/rebuild_cache.dir
+/home/ashkhen/search/Crawler/build/LinksRep/CMakeFiles/edit_cache.dir
+/home/ashkhen/search/Crawler/build/LinksRep/CMakeFiles/LinkRepository.dir
+/home/ashkhen/search/Crawler/build/Website/CMakeFiles/rebuild_cache.dir
+/home/ashkhen/search/Crawler/build/Website/CMakeFiles/edit_cache.dir
+/home/ashkhen/search/Crawler/build/Website/CMakeFiles/Website.dir
